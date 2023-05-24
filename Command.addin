@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>RevitDay1</Name>
+		<Assembly>ColumnDimensionRevit.dll</Assembly>
+		<AddInId>
+			24102C2F-9156-477C-8DC9-5D0DDB4C10BB
+		</AddInId>
+		<FullClassName>ColumnDimensionRevit.ViewModel.MainViewModel</FullClassName>
+		<Text>Column Dimension</Text>
+		<Description>Get The window</Description>
+		<VendorId>ITI</VendorId>
+		<VendorDescription>@ITI</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

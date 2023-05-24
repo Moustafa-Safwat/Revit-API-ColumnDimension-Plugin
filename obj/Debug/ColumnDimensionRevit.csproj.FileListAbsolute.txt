@@ -1,0 +1,14 @@
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\bin\Debug\Command.addin
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\bin\Debug\ColumnDimensionRevit.dll
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\bin\Debug\ColumnDimensionRevit.pdb
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit.csproj.AssemblyReference.cache
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\View\MainWindow.g.cs
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit_MarkupCompile.cache
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit_MarkupCompile.lref
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\View\MainWindow.baml
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit.g.resources
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit.Properties.Resources.resources
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit.csproj.GenerateResource.cache
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit.csproj.CoreCompileInputs.cache
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit.dll
+D:\ITI\BIM\BIM III\Revit-API\Project\ColumnDimensionRevit\obj\Debug\ColumnDimensionRevit.pdb
